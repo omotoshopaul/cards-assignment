@@ -62,14 +62,17 @@ p{
 .sedans .button{
     color: hsl(31, 77%, 52%);
     margin-top: 40px;
+    border: 0.3px solid hsl(31, 77%, 52%);
 }
 .suvs .button{
     color: hsl(184, 100%, 22%);
     margin-top: 58px;
+    border: 0.3px solid hsl(184, 100%, 22%);
 }
 .luxury .button{
     color: hsl(179, 100%, 13%);
     margin-top: 40px;
+    border: 0.3px solid hsl(179, 100%, 13%);
 }
 .button:hover{
     cursor: pointer;
@@ -77,6 +80,7 @@ p{
     height: 50px;
     font-size: 18px;
     border-radius: 50px;
+    border: 0.3px solid hsl(0, 0%, 95%);
 }
 .sedans .button:hover{
     background-color: hsl(31, 77%, 52%);
@@ -97,4 +101,3 @@ p{
     
 
 }
-
