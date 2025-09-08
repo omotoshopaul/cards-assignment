@@ -61,15 +61,15 @@ p{
 }
 .sedans .button{
     color: hsl(31, 77%, 52%);
-    margin-top: 70px;
+    margin-top: 40px;
 }
 .suvs .button{
     color: hsl(184, 100%, 22%);
-    margin-top: 88px;
+    margin-top: 58px;
 }
 .luxury .button{
     color: hsl(179, 100%, 13%);
-    margin-top: 70px;
+    margin-top: 40px;
 }
 .button:hover{
     cursor: pointer;
@@ -97,3 +97,4 @@ p{
     
 
 }
+
